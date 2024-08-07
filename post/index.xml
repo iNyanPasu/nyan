@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on nyanpasi</title>
+    <link>https://inyanpasu.github.io/nyan/post/</link>
+    <description>Recent content in Post on nyanpasi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 07 Aug 2024 09:28:25 +0800</lastBuildDate><atom:link href="https://inyanpasu.github.io/nyan/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://inyanpasu.github.io/nyan/post/markdown/</link>
+      <pubDate>Wed, 07 Aug 2024 09:29:18 +0800</pubDate>
+      
+      <guid>https://inyanpasu.github.io/nyan/post/markdown/</guid>
+      
+        <description>This is intended as a quick reference and showcase. For more complete info, see John Gruber&amp;rsquo;s original spec and the Github-flavored Markdown info page.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
